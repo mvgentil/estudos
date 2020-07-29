@@ -1,4 +1,4 @@
-package entities;
+package Estudos.Java.Hotel.entities;
 
 public class Rent{
 

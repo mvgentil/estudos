@@ -1,4 +1,4 @@
-package application;
+package Estudos.Java.Hotel.application;
 
 import java.util.Scanner;
 import java.text.ParseException;
