@@ -1,11 +1,11 @@
-package Estudos.Java.Hotel.application;
+package application;
 
 import java.util.Scanner;
 import java.text.ParseException;
 
-import entities.Rent;
+import entities.*;
 
-public class Program{
+public class Program {
 
   public static void  main(String[] args) throws ParseException {
 
