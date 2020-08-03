@@ -1,4 +1,4 @@
-package Estudos.Java.Banco.entities;
+package entities;
 
 public class Account{
 

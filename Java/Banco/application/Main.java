@@ -1,9 +1,9 @@
-package Estudos.Java.Banco.src;
+package src;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import Estudos.Java.Banco.entities.Account;
+import ntities.Account;
 
 public class Main {
   
